@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: example
+dirk:
+  enabled: true
+  auto-naming: true      # Workflow -> PIZZA_WORKFLOW_QUEUE
+  auto-pilot: true       # automatically register found beans.
+  target: 127.0.0.1:7233 # your local temporal server.
