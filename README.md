@@ -2,7 +2,11 @@
 
 **Opinionated Temporal.io integration for Spring Boot.**
 
-Dirk removes the boilerplate from Temporal. No more manual worker registration, no more factory beans, no more queue name constants. Just code.
+This project began as a personal draft and was uploaded to GitHub mainly for reference and preservation.
+
+The official SDK now provides built-in auto-discovery for Activities and Workflows, rendering this implementation obsolete.
+
+**Not recommended for production use. This project is archived and may be discontinued.**
 
 ## 🚀 Features
 
